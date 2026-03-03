@@ -1,7 +1,7 @@
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class UC8 {
+public class OOPsBannerApp {
 
     private static Map<Character, String[]> buildPatternMap() {
         Map<Character, String[]> map = new LinkedHashMap<>();
