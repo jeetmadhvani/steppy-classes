@@ -1,4 +1,4 @@
-public class UC7 {
+public class OOPsBannerApp {
 
     static class CharacterPatternMap {
         private char character;
